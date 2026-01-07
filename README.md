@@ -11,6 +11,9 @@ Il progetto è strutturato in due dashboard principali:
 1. Dashboard Clienti
 
 2. Dashboard Prodotti
+## [ Esplora il Progetto](https://public.tableau.com/app/profile/giusy.indelicato/viz/E-CommerceInsightsDashboardCustomerChannelSalesPerformance/Dashprodotti)
+Questo progetto è accompagnato da dashboard interattive pubblicate su Tableau Public:
+**[E-Commerce Insights Dashboard](https://public.tableau.com/app/profile/giusy.indelicato/viz/E-CommerceInsightsDashboardCustomerChannelSalesPerformance/Dashprodotti)**
 
 # Dataset e Preparazione dei Dati
 
@@ -105,7 +108,7 @@ La Cina si conferma il mercato più rilevante, unendo alti volumi di ordini, AOV
 Al contrario, Colombia e Austria mostrano un numero limitato di ordini e un AOV più basso, evidenziando un potenziale economico ridotto.
 
 # Canali di acquisizione
-Quasi il 70% del traffico proviene dalla ricerca, mentre email e display ads contribuiscono solo per il 4%.
+Quasi il 70% del traffico proviene dalla ricerca, mentre email e display ads contribuiscono solo rispettivamente del 5% e del 4%.
 
 # Segmentazione per età
 Le fasce 25–34 e 55–64 risultano le più attive in termini di ordini, suggerendo la presenza di due cluster distinti:
@@ -120,4 +123,4 @@ Dopo un calo iniziale a Febbraio (-8,63% rispetto a Gennaio), la crescita dei cl
 # Brand e categorie
 L’analisi per Brand e categoria evidenzia una chiara distinzione tra volume di vendita e redditività.
 
-L’Intimo è la categoria più venduta, ma genera un profitto inferiore, al contrario dei Jeans e dei Cappotti, che pur con volumi minori, risultano più profittevoli grazie a prezzi più elevati, generando un maggiore valore per ordine.
+L’Intimo donna è la categoria più venduta, ma genera un profitto inferiore, al contrario dei Jeans e dei Cappotti, che pur con volumi minori, risultano più profittevoli grazie a prezzi più elevati, generando un maggiore valore per ordine.
