@@ -44,6 +44,7 @@ La Dashboard Clienti ha l’obiettivo di rispondere a tre domande principali:
 **1. Chi sono i clienti?**
 
 Attraverso l’analisi per fascia d’età e provenienza geografica è possibile delineare il profilo della clientela e individuare i mercati più rilevanti.
+Nella mappa geografica, l’intensità del colore rappresenta il numero di clienti, permettendo di individuare rapidamente le aree con maggiore concentrazione.
 
 **2. Da dove arrivano?**
 
@@ -100,8 +101,8 @@ L’analisi dei dati dell’e-commerce per l’anno 2025 evidenzia un business s
 Con: 56,4K clienti, 106,8K articoli venduti, AOV pari a 56, Fatturato totale di 6,27M, Profitto di 3,25M e Margine del 51,87% il modello di business mostra una buona efficienza operativa, con costi ben controllati rispetto ai ricavi.
 
 # Analisi geografica
-La Cina risulta il Paese con il maggior numero di ordini e un AOV in linea con la media, confermandosi come mercato chiave sia per volume che per valore.
-Al contrario, Colombia e Austria presentano pochissimi ordini e AOV basso
+La Cina si conferma il mercato più rilevante, unendo alti volumi di ordini, AOV in linea con la media ed elevata redditività.
+Al contrario, Colombia e Austria mostrano un numero limitato di ordini e un AOV più basso, evidenziando un potenziale economico ridotto.
 
 # Canali di acquisizione
 Quasi il 70% del traffico proviene dalla ricerca, mentre email e display ads contribuiscono solo per il 4%.
