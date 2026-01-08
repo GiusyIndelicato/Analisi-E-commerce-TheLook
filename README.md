@@ -11,7 +11,7 @@ Il progetto è strutturato in due dashboard principali:
 1. Dashboard Clienti
 
 2. Dashboard Prodotti
-## [ Esplora il Progetto](https://public.tableau.com/app/profile/giusy.indelicato/viz/E-CommerceInsightsDashboardCustomerChannelSalesPerformance/Dashprodotti)
+## [ Esplora il Progetto](https://public.tableau.com/app/profile/giusy.indelicato/viz/PanoramicaPerformanceE-CommerceClientiProdottieVendite/Storia1)
 Questo progetto è accompagnato da dashboard interattive pubblicate su Tableau Public:
 **[Panoramica Performance E-Commerce](https://public.tableau.com/app/profile/giusy.indelicato/viz/PanoramicaPerformanceE-CommerceClientiProdottieVendite/Storia1)**
 
